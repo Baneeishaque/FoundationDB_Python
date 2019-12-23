@@ -3,7 +3,7 @@ import random
 import threading
 import fdb
 
-fdb.api_version(520)
+fdb.api_version(620)
 
 
 ####################################
